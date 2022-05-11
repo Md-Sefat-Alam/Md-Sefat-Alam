@@ -37,7 +37,8 @@ Here are some ideas to get you started:
 - 📄 Know about my experiences [Resume of Md. Sefat Alam](https://drive.google.com/file/d/1kVI1k6IcivPpIY9gk7FJ_-TcRKNUQoSx/view?usp=sharing)
 
 <br/><br/>
-
+<div style='display: flex'>
+<div>
 <h4 align="left">Programming Languages:</h4>
 <p align="left">
 <a
@@ -53,7 +54,9 @@ Here are some ideas to get you started:
       />
     </a>
 </p>
+</div>
 
+<div>
 <h4 align="left">Frontend Development:</h4>
 <p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -97,7 +100,8 @@ Here are some ideas to get you started:
       />
     </a>
 </p>
-
+</div>
+<div>
 <h4 align="left">Backend Development:</h4>
 <p align="left">
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -117,7 +121,8 @@ Here are some ideas to get you started:
       />
     </a>
 </p>
-
+</div>
+<div>
 <h4 align="left">Database:</h4>
 <p align="left">
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -129,7 +134,8 @@ Here are some ideas to get you started:
       />
     </a>
 </p>
-
+</div>
+<div>
 <h4 align="left">Backend as a Service:</h4>
 <p align="left">
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
@@ -149,7 +155,8 @@ Here are some ideas to get you started:
       />
     </a>
 </p>
-
+</div>
+<div>
 <h4 align="left">Others:</h4>
 <p align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -169,7 +176,8 @@ Here are some ideas to get you started:
       />
     </a>
   </p>
-  
+  </div>
+  </div>
 <br/><br/><br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-sefat-alam&show_icons=true&locale=en&layout=compact" alt="md-sefat-alam" /></p>
 <br/><br/>
