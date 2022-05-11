@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - 📄 Know about my experiences [Resume of Md. Sefat Alam](https://drive.google.com/file/d/1kVI1k6IcivPpIY9gk7FJ_-TcRKNUQoSx/view?usp=sharing)
 
 <br/><br/>
-<div style='display: flex'>
+<div style="display:flex;color:blue;text-align:center;">
 <div>
 <h4 align="left">Programming Languages:</h4>
 <p align="left">
