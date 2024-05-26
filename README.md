@@ -28,13 +28,9 @@ Here are some ideas to get you started:
 
 <br/><br/>
 
-- 👨‍💻 All of my projects are available at [https://sefat.netlify.app/](https://sefat.netlify.app/)
-
-- 💬 Ask me about **react, node**
-
 - 📫 How to reach me **md.sefatalam@gmail.com**
 
-- 📄 Know about my experiences [Resume of Md. Sefat Alam](https://drive.google.com/file/d/1kVI1k6IcivPpIY9gk7FJ_-TcRKNUQoSx/view?usp=sharing)
+- 📄 Know about my experiences [Resume of Md. Sefat Alam](https://drive.google.com/file/d/1URLgEhJfxoV6Teoq_pXC8Po4q3q0-Bwk/view?usp=drive_link)
 
 <br/><br/>
 <div style="display:flex;color:blue;text-align:center;">
