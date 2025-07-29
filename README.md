@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2D9EE0&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;Software+Architect;Microservices+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2D9EE0&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;Software+Architect+Learner;Microservices+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,7 +23,7 @@ const sefat = {
     location: "Dhaka, Bangladesh",
     specialization: ["Full Stack Development", "Microservices", "SaaS Platforms"],
     currentFocus: "Building scalable web applications with modern architecture",
-    lifeGoal: "Become a Senior Software Architect within 3 years"
+    lifeGoal: "Become a Senior Software Architect within 5 years"
 };
 ```
 
